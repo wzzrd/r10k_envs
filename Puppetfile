@@ -21,3 +21,7 @@ mod 'yo61-logrotate', '1.3.0'
 mod 'lampglue',
   :git => 'https://github.com/wzzrd/lampglue',
   :tag => '0.1.0'
+
+mod 'hash_resources',
+  :git => 'https://github.com/stbenjam/puppet-hash_resources.git',
+  :tag => '1.0.1'
