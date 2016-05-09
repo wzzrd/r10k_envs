@@ -17,3 +17,7 @@ mod 'puppetlabs-registry', '1.1.3'
 mod 'puppetlabs-stdlib', '4.12.0'
 mod 'saz-rsyslog', '3.5.1'
 mod 'yo61-logrotate', '1.3.0'
+
+mod 'lampglue',
+  :git => 'https://github.com/wzzrd/lampglue',
+  :tag => '0.1.0'
