@@ -28,7 +28,7 @@ mod 'hash_resources',
 
 mod 'profile',
   :git => 'https://github.com/wzzrd/maxim-profile.git',
-  :tag => '0.1.0'
+  :tag => '0.1.1'
 
 mod 'role',
   :git => 'https://github.com/wzzrd/maxim-role.git',
