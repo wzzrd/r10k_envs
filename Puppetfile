@@ -25,3 +25,11 @@ mod 'lampglue',
 mod 'hash_resources',
   :git => 'https://github.com/stbenjam/puppet-hash_resources.git',
   :tag => '1.0.1'
+
+mod 'profile',
+  :git => 'git@github.com:wzzrd/maxim-profile.git',
+  :tag => '0.1.0'
+
+mod 'role',
+  :git => 'git@github.com:wzzrd/maxim-role.git',
+  :tag => '0.1.0'
